@@ -1,0 +1,22 @@
+{
+  "name": "php-composing",
+  "version": "1.0.0",
+  "description": "Vous devrez charger le fichier `cs_figures.csv` puis afficher chacune des ligne sous forme de `card` incluses dans semantic ui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alencruser/php-composing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alencruser/php-composing/issues"
+  },
+  "homepage": "https://github.com/Alencruser/php-composing#readme",
+  "dependencies": {},
+  "devDependencies": {},
+  "keywords": []
+}
